@@ -1,0 +1,6 @@
+#include<stdio.h>
+int PrintHex()
+{
+	printf("\x22\x48\x45\x4C\x4C\x4F\x20\x57\x4F\x52\x4C\x44\x22");
+	return 0;
+}
